@@ -1,6 +1,6 @@
 <div align="left">
   <h2>Salam aleikum, I'm Kerim! 👋</h2>
-  <p>Developer in Training | 5 Years of Hobby Coding</p>
+  <p>Developer in Training - 5 Years of Hobby Coding</p>
 
   <h2>🖥️ My Programming Skills</h2>
   <img src="https://github.com/dev-kerim/dev-kerim/blob/main/assets/csharp.svg" alt="c#" height="40" />
